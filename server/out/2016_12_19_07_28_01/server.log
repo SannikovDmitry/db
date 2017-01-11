@@ -1,0 +1,780 @@
+[12-19 07:28:01,143, 439] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,158, 454] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,160, 456] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,164, 460] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,165, 461] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,166, 462] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,166, 462] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,166, 462] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,167, 463] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,167, 463] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,170, 466] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,171, 467] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,171, 467] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,171, 467] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,172, 468] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,172, 468] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,172, 468] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,173, 469] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,173, 469] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,183, 479] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,189, 485] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,192, 488] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,195, 491] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,195, 491] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,196, 492] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,196, 492] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,196, 492] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,197, 493] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,197, 493] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,197, 493] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,198, 494] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,199, 495] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,199, 495] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,200, 496] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,200, 496] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,201, 497] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,202, 498] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,202, 498] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,203, 499] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,204, 500] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,205, 501] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,206, 502] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,206, 502] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,207, 503] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,208, 504] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,208, 504] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,208, 504] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,209, 505] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,209, 505] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,210, 506] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,211, 507] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more
+[12-19 07:28:01,212, 508] main.Main CPU:
+{}
+java.io.IOException: Cannot run program "./test.sh": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:620) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:450) ~[?:1.8.0_101]
+	at java.lang.Runtime.exec(Runtime.java:347) ~[?:1.8.0_101]
+	at main.Main$2.run(Main.java:48) [DBApi-1.0-jar-with-dependencies.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method) ~[?:1.8.0_101]
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248) ~[?:1.8.0_101]
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134) ~[?:1.8.0_101]
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029) ~[?:1.8.0_101]
+	... 5 more

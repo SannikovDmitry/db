@@ -1,0 +1,23 @@
+[12-20 11:31:47,744, 4488] main.Main CPU: 31.8
+[12-20 11:31:51,259, 8003] main.Main CPU: 0.46666666666666673
+[12-20 11:31:54,784, 11528] main.Main CPU: 19.033333333333335
+[12-20 11:31:57,401, 14145] mysql.MySqlConnect com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry 'example3@mail.ru' for key 'email'
+[12-20 11:31:58,083, 14827] mysql.MySqlConnect query:
+select distinct p.author_id from post p join users u on p.author_id = u.id where p.forum_id = 45 and p.author_id > 2 order by u.name asc limit 2;
+[12-20 11:31:58,083, 14827] mysql.MySqlConnect java.sql.SQLException: Expression #1 of ORDER BY clause is not in SELECT list, references column 'SMDB.u.name' which is not in SELECT list; this is incompatible with DISTINCT
+[12-20 11:31:58,087, 14831] mysql.MySqlConnect query:
+select distinct author_id from post p where forum_id = 46 order by name desc ;
+[12-20 11:31:58,087, 14831] mysql.MySqlConnect java.sql.SQLException: Expression #1 of ORDER BY clause is not in SELECT list, references column 'SMDB.p.name' which is not in SELECT list; this is incompatible with DISTINCT
+[12-20 11:31:58,364, 15108] main.Main CPU: 23.633333333333336
+[12-20 11:32:01,875, 18619] main.Main CPU: 1.0333333333333332
+[12-20 11:32:05,385, 22129] main.Main CPU: 0.43333333333333335
+[12-20 11:32:08,897, 25641] main.Main CPU: 4.433333333333333
+[12-20 11:32:09,586, 26330] mysql.MySqlConnect com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry 'example3@mail.ru' for key 'email'
+[12-20 11:32:10,075, 26819] mysql.MySqlConnect query:
+select distinct p.author_id from post p join users u on p.author_id = u.id where p.forum_id = 49 and p.author_id > 2 order by u.name asc limit 2;
+[12-20 11:32:10,075, 26819] mysql.MySqlConnect java.sql.SQLException: Expression #1 of ORDER BY clause is not in SELECT list, references column 'SMDB.u.name' which is not in SELECT list; this is incompatible with DISTINCT
+[12-20 11:32:10,079, 26823] mysql.MySqlConnect query:
+select distinct author_id from post p where forum_id = 50 order by name desc ;
+[12-20 11:32:10,079, 26823] mysql.MySqlConnect java.sql.SQLException: Expression #1 of ORDER BY clause is not in SELECT list, references column 'SMDB.p.name' which is not in SELECT list; this is incompatible with DISTINCT
+[12-20 11:32:12,411, 29155] main.Main CPU: 7.3999999999999995
+[12-20 11:32:15,933, 32677] main.Main CPU: 16.833333333333332

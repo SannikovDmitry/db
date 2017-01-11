@@ -1,0 +1,19 @@
+[12-19 07:57:59,894, 5035] main.Main CPU: 20.0
+[12-19 07:58:02,240, 7381] mysql.MySqlConnect com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry 'example@mail.ru' for key 'email'
+[12-19 07:58:02,647, 7788] mysql.MySqlConnect com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '40-27' for key 'PRIMARY'
+[12-19 07:58:02,944, 8085] mysql.MySqlConnect query:
+select distinct p.author_id from post p join users u on p.author_id = u.id where p.forum_id = 25 and p.author_id > 2 order by u.name asc limit 2;
+[12-19 07:58:02,944, 8085] mysql.MySqlConnect java.sql.SQLException: Expression #1 of ORDER BY clause is not in SELECT list, references column 'SMDB.u.name' which is not in SELECT list; this is incompatible with DISTINCT
+[12-19 07:58:02,951, 8092] mysql.MySqlConnect query:
+select distinct author_id from post p where forum_id = 26 order by name desc ;
+[12-19 07:58:02,951, 8092] mysql.MySqlConnect java.sql.SQLException: Expression #1 of ORDER BY clause is not in SELECT list, references column 'SMDB.p.name' which is not in SELECT list; this is incompatible with DISTINCT
+[12-19 07:58:03,426, 8567] main.Main CPU: 34.36666666666667
+[12-19 07:58:06,960, 12101] main.Main CPU: 0.6
+[12-19 07:58:10,486, 15627] main.Main CPU: 1.0999999999999999
+[12-19 07:58:14,010, 19151] main.Main CPU: 14.366666666666667
+[12-19 07:58:14,107, 19248] main.Main CPU:
+{}
+java.util.NoSuchElementException: No line found
+	at java.util.Scanner.nextLine(Scanner.java:1540) ~[?:1.8.0_91]
+	at main.Main$2.run(Main.java:50) [classes/:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_91]
